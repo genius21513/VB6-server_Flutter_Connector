@@ -1,0 +1,4 @@
+I need to communicate between VB6 project and a FLUTTER one.
+So feel free to use ANY code you want ANY way you want - as long as i'll have communication and i'll be able to send JSONs between the two apps..
+
+i'll send you my project files of VB and FLUTTER - but you can ignore them and write something of your own,, as i was saying - i just need a way to communicate between VB6 and FLUTTER
